@@ -12,6 +12,7 @@ We use of Knime software and  R where it was needed.
 
 Silvia Ranieri - Data Science Student @ University of Milano-Bicocca
 s.ranieri7@campus.unimib.it
+
 Riccardo Confalonieri - Data Science Student @ University of Milano-Bicocca
 r.confalonieri5@campus.unimib.it
 
